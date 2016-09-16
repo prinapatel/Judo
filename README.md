@@ -7,4 +7,4 @@ Write a code to read in a text file, make a list of unique words and then alphab
 Part 2: 
 Filter the word list to print to screen only those 6 letter words that are concatenations of 2 words also in the original list. 
 
-Done in a python and Java. Both take the filename as the only input. 
+Done in a python and Java. Both take the filename as the only input. eg.txt is a smaller example test file, words.txt contains actual text but is still fairly small.
